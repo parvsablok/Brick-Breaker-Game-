@@ -1,4 +1,4 @@
-# Brick-Breaker-Game-
+# Brick-Breaker-Game-with-random-map-generator
 Welcome to the Brick Breaker game! This classic arcade-style game is an exciting and entertaining experience that challenges your reflexes and strategic thinking. In this README file, you will find all the essential information you need to understand, install, and play the game.
 
 Game Overview-
